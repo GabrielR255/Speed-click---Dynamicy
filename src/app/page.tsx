@@ -144,7 +144,7 @@ function App() {
           </div>
         </div>
 
-        <div className="flex justify-center items-center bg-gray-800 p-3 sm:p-5 w-full sm:w-[860px] mt-8 rounded-2xl">
+        <div className="flex justify-center items-center bg-gray-800 p-2 sm:p-5 w-full sm:w-[860px] mt-7 rounded-2xl">
           <h1 className="text-lg sm:text-xl text-white text-center">DESAFIO - SPEED CLICK DINÂMICO</h1>
         </div>
       </div>
