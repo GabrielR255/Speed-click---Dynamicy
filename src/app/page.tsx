@@ -62,7 +62,7 @@ function App() {
   }
 
   return (
-    <div className="relative bg-gradient-to-l from-50% to-gray-900 w-screen h-screen overflow-hidden">
+    <div className="relative bg-gradient-to-l from-50% to-gray-900 w-screen h-screen ">
       <div className="flex flex-col justify-center items-center p-4 sm:p-10">
         <div className="flex flex-col lg:flex-row gap-6 lg:gap-20 w-full max-w-3xl">
           {/* Lado Esquerdo */}
